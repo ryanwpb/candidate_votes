@@ -1,2 +1,0 @@
-class CandidatesindexController < ApplicationController
-end

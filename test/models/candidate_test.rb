@@ -15,4 +15,6 @@ class CandidateTest < ActiveSupport::TestCase
     assert candidate.save
     refute bad_candidate.save
   end
+
+  
 end
